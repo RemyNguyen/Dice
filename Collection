@@ -3,11 +3,37 @@
 <head>
 <style>
 body{
-font-family: Arial, Helvetica, sans-serif;
+font-family: Helvetica;
 }
 </style>
 </head>
 <body>
-<h1>
+<h1>Dice</h1>
+
+<h2>List 0</h2>
+<div>d4</div>
+<div>d6</div>
+<div>d8</div>
+<div>d10</div>
+<div>d12</div>
+<div>d20</div>
+
+<h2>List 1</h2>
+<div>d3</div>
+<div>d</div>
+<div>d8</div>
+<div>d10</div>
+<div>d12</div>
+<div>d20</div>
+
+<h2>List 2</h2>
+<div>d4</div>
+<div>d6</div>
+<div>d8</div>
+<div>d10</div>
+<div>d12</div>
+<div>d20</div>
+
+
 </body>
 </html>
